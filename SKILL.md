@@ -6,7 +6,7 @@ description: >
   publication. Triggers include: "напиши рецензию", "сделай рецензию", "проверь статью",
   "рецензирование", "peer review", "экспертиза статьи", "оцени статью для публикации".
   The skill reads the uploaded file, runs a structured academic review against 10 criteria
-  following the standards of VAK/Scopus journals, and outputs the result as a DOCX file.
+  typical of peer-reviewed academic journals, and outputs the result as a DOCX file.
   Always use this skill when a scientific article is uploaded alongside a review request —
   even if the user does not use the word "рецензия" explicitly.
 ---
